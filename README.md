@@ -10,8 +10,7 @@ The goal of this lab isn't to be a full Linux course — it's to show that I can
 - **OS:** Debian / Ubuntu (Linux)
 - **Access:** terminal / command line (same workflow as SSH to a remote server)
 
-> ℹ️ *(Add a screenshot of your VM / terminal here.)*
-> `![Lab environment](screenshots/00-environment.png)`
+   ![Lab environment](screenshots/00-environment.png)
 
 ## 🎯 What this lab shows
 
