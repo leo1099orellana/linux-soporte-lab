@@ -20,8 +20,7 @@ sudo apt purge htop        # remove it AND its config files
 apt search monitor         # search for a package by keyword
 ```
 
-> `![apt install](screenshots/03-apt-install.png)`
-
+![apt install](screenshots/03-apt-install.png)
 ## The three ways to install software
 
 1. **From the repositories with `apt`** — the normal, preferred way. Handles dependencies automatically.
