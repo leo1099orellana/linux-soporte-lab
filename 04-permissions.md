@@ -45,8 +45,7 @@ sudo chown leonel archivo.txt          # change owner
 sudo chown leonel:soporte archivo.txt  # change owner and group
 ```
 
-> `![Permissions before and after](screenshots/04-permissions.png)`
-
+![Permissions before and after](screenshots/04-permissions.png)
 ## sudo — running as administrator
 
 `sudo` runs a single command with admin rights. You need it to touch system files, install software, or manage other users' files. If a command returns **"Permission denied"**, the fix is usually either `sudo` or correcting ownership with `chown` — see [troubleshooting](troubleshooting.md).
