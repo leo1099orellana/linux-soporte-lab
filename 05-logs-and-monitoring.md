@@ -29,8 +29,7 @@ Common ones: `syslog` (general), `auth.log` (logins / sudo), plus a file or fold
 grep -i error /var/log/syslog | tail -20
 ```
 
-> `![Reading a log with tail and grep](screenshots/05-logs.png)`
-
+![Reading a log with tail and grep](screenshots/05-logs.png)
 ## Quick health checks
 
 Before blaming the app, rule out the basics — disk, memory, is the service even running:
