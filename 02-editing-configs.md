@@ -31,7 +31,7 @@ Simple and direct, no modes. Good for a fast edit.
 sudo nano /etc/ssh/sshd_config
 ```
 
-> `![Editing with nano](screenshots/02-nano.png)`
+![Editing with nano](screenshots/02-nano.png)
 
 ## vim — the one that's always there
 
