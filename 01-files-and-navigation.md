@@ -17,8 +17,7 @@
 
 **Absolute vs relative path:** an absolute path starts from root (`/etc/ssh/`) and works from anywhere. A relative path (`ssh/`) is read from where you currently are. Mixing these up is one of the most common "file not found" causes — see [troubleshooting](troubleshooting.md).
 
-> `![ls -l output](screenshots/01-ls.png)`
-
+![ls -l output](screenshots/01-ls.png)
 ## Managing files and folders
 
 | Command | What it does |
@@ -44,7 +43,7 @@ Wildcards let you act on many files at once:
 | `[ ]` | One character from a set — `ls foto[12].jpg` |
 | `{ }` | A list — `touch archivo{1,2,3}.txt` creates three files |
 
-> `![Wildcards in action](screenshots/01-wildcards.png)`
+[Wildcards in action](screenshots/01-wildcards.png)
 
 ## Packaging files to send (tar / gzip)
 
